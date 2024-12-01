@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 edit edit edited readme fileee
 =======
-hello. i modified this file.
+hello everyone. i modified this file now.
 >>>>>>> feature-branch
